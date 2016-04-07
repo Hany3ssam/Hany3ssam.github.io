@@ -8,8 +8,7 @@ permalink:        pretty
 # Setup
 title:            'Hany Essam'
 tagline:          'Self-Taught .Net developer'
-description:      'Im a Self-Taught Software Developer having a career shift from Sales, Looking for an entry level role.
-MCPD - MCTS'
+description:      'Im a Self-Taught Software Developer having a career shift from Sales, Looking for an entry level role.'
 url:              https://hany3ssam.github.io
 baseurl:          '/'
 gems:             [jekyll-paginate]
