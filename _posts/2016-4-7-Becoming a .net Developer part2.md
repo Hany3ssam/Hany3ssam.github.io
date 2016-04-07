@@ -9,14 +9,16 @@ comments:
 <p>
 Building on the previous post, I want to say that most software developers are self-taught, and don’t have a CS degree; In fact, I have seen alot of topics on <em>Quora</em> about people wanting to have a career shift into software development, And with the Digital Era we live in today your timing couldn’t be better.
 Having mastered the skills I mentioned in the previous post will most likely grantee you an entry level software developer role, as a reminder you need to know the following;</p>
-•	HTML<br>
-•	CSS > Framework(Bootstrap)<br>
-•	JavaScript > Framework(Angularjs)<br>
-•	JQuery<br>
-•	Server Side Language(C#, Java, Python etc.)<br>
-•	OOP<br>
-•	Database <br>
-•	Source Control(Git)<br>
+<ul>
+<li>HTML</li>
+<li>CSS > Framework(Bootstrap)</li>
+<li>JavaScript > Framework(Angularjs)</li>
+<li>JQuery</li>
+<li>Server Side Language(C#, Java, Python etc.)</li>
+<li>OOP</li>
+<li>Database</li> 
+<li>Source Control(Git)</li>
+</ul>
 <p>
 Those are enough to get you started, and I don’t want to complicate things talking about front end and back end routes, Let’s just say that a front end developer only concern with the UI – User Interface -, while the backend developer concern with the Business Logic/Data Integration and the functionality of the application. Either way you want to master both.
 </p>
