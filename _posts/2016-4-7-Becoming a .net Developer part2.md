@@ -25,6 +25,7 @@ Those are enough to get you started, and I don’t want to complicate things tal
 <p>
 The very next thing you want to do is to gain a real life experience, so learn by doing, start building applications, get a portfolio, the benefit of that is you are going to get your hands dirty and will learn more by doing, hence showcase your future employer that you have built stuff, you’re initiative and have a hands on experience, Another way to achieve that goal is to contribute to an open source projects.<br>
 </p>
+<p>
 3 years ago, i rejected offers because salary was below the average, given that i will have to relocate and it barley will cover my expenses of rent, bills and other stuff, However you don’t want to do that, if I can give my younger self an advise i would say accept the fucking offer, you need a fucking real life experience.<br>
 If i only had a mentor!<br>
 I learned the hard way, 3 years later now and im willing to accept unpaid internship to learn and advance my skills. 
