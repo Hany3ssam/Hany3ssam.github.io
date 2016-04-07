@@ -2,7 +2,7 @@
 layout: post
 title: Journey To The Center of Becoming a Software Developer part2
 categories: []
-tags: []
+tags: [career,Software Developement]
 description: 
 comments:
 ---

@@ -11,6 +11,7 @@ tagline:          'Self-Taught .Net developer'
 description:      'Having a career shift into Software Development'
 url:              https://github.com/Hany3ssam/MyBlog
 baseurl:          '/'
+gems:             [jekyll-paginate]
 paginate:         5
 
 author:
