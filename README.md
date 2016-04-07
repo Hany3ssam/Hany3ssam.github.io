@@ -1,6 +1,10 @@
 ## hany3ssam.github.io
 
-Personal website - [https://github.com/Hany3ssam] 
+<<<<<<< HEAD
+Personal website - [https://hany3ssam.github.io] 
+=======
+Personal website - [http://hany3ssam.github.io]
+>>>>>>> 3ca77a0131ca5f13a1d09296e10ab08f2f289f7f
 
 ### Lanyon by [Mark Otto](https://github.com/mdo)
 
