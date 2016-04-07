@@ -1,6 +1,6 @@
 ## psteadman.github.io
 
-Personal website - [https://github.com/Hany3ssam/MyBlog] 
+Personal website - [http://hany3ssam.github.io]
 
 ### Lanyon by [Mark Otto](https://github.com/mdo)
 
