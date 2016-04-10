@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 <p>
-Im a Self-Taught Software Developer having a career shift from Sales,
-Looking for an entry level role.<br>
+Im a self-taught software developer having a career shift from Sales,
+interested in entry level/junior role.<br>
 </p>
 
