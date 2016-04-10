@@ -2,6 +2,7 @@
 
 
 Personal website - [https://hany3ssam.github.io] 
+				   [hanyz.com]
 
 
 
