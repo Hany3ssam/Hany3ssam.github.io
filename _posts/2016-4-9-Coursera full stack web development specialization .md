@@ -27,7 +27,7 @@ The first two courses in this Specialization include an orientation to client-si
 	If you can't afford the cost of the course which is 395$ total(79$) each, You too can apply for a Financial Aid and most likely you will get one if you’re from a developing country like i am(Egypt).
 </p>
 <p>
-	Coursera Also offers a Data Science and Algorithms and Data Structure Specializations , Both are very sufficient and a must have specially the Data Science as its the very high demand profssion in 2016 according to a linkedin survey.
+	Coursera Also offers a Data Science and Algorithms and Data Structure Specializations , Both are very sufficient and a must have specially the Data Science as its the most high demand profssion in 2016 according to a linkedin survey.
 </p>
 Good Luck.
 
