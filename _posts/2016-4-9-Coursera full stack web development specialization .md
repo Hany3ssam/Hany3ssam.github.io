@@ -23,7 +23,7 @@ Learn front-end and mobile hybrid development, build back-end support, and imple
 The first two courses in this Specialization include an orientation to client-side development, covering HTML/CSS, JavaScript/JQuery, and frameworks such as AngularJS and Bootstrap. On the server side, you’ll learn to implement NoSQL databases using MongoDB, work within a Node.js environment, and communicate to the client side through a RESTful API. You’ll also learn to create hybrid mobile applications, using the Ionic framework and Cordova. In the final Capstone Project, you’ll apply your skills to build a fully functional web and hybrid mobile application with back-end support.
 </p>
 <p>
-	Sounds Interesting huh!, But there is no way i can afford the course's cost while im unemployed, Fortunately i applied for a Financial Aid, and Coursera offered me the Specialization free of charge.<br> <em>I got excited and finished the 1 week material and assignment in one setting :)</em>
+	Sounds Interesting huh!, But there is no way i can afford the course's cost while im unemployed, Fortunately i applied for a Financial Aid, and Coursera offered me the Specialization free of charge.<br> <em>I got excited and finished the 1 week material and assignment in one sitting :)</em>
 	If you can't afford the cost of the course which is 395$ total(79$) each, You too can apply for a Financial Aid and most likely you will get one if you’re from a developing country like i am(Egypt).
 </p>
 <p>
