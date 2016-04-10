@@ -14,7 +14,7 @@ I first started my coding journey back in 2012 after i granted the Ministry of C
 On the other hand i constantly was trying to advance my skill set with enrolling for a couple of “MOOC” Online classes such as CS101 Building a search engine using python, and Web applications from Udacity, and read a couple of Head First Series from O’really, Head First C# for example, which i highly recommend.<br>
 The one mistake i have made and you should avoid is that, i started to learn the hell i think it’s going to land me a job, so every time i saw a job post require a specific set of skills I immediately jump and learn it thinking it is the current trend and hoping that i might get a job soon, so learned php, python, wordpress, android and more.. instead of focusing on one technology and become good at it i kept going from one tech to another thinking that way im getting better while in fact i im not. If you're anything like me i highly advise you to stick to one programming language, and master it. for me the answer was the .Net framework/C#, Not only it’s easy to learn and use with the cool IDE and intellisene, there is a huge support and community behind it, it’s a very powerful yet easy to learn and i highly recommend it for a newbie, im not an expert to list every single advantage why you should go with Microsoft but to name a few: <br></p>
 <ul>
-  <li>easy to learn yet very powerful and you can build the hell you want, desktop, web, mobile Using Xamarin to build Android and IOS apps using C# (which recently became free), Game Development using Unity</li>
+  <li>Easy to learn yet very powerful and you can build the hell you want, desktop, web, mobile Using Xamarin to build Android and IOS apps using C# (which recently became free), Game Development using Unity</li>
   <li>Microsoft announced that the latest ASP.NET version is now open source and you can develop/host .net applications on Linux or any platform</li>
   <li>Huge community support</li>
   <li>Object Oriented</li>
@@ -26,7 +26,7 @@ Anyway whether you will go with the .Net, Java, Python or Ruby... just remember 
   <li>CSS and Css framework(Bootstrap)</li>
   <li>Javascript and JS framework(Angularjs)</li>
   <li>JQuery</li>
-  <li>version Control like (Github)</li>
+  <li>Version Control like (Github)</li>
 </ul>
 <p>
 Hopefully you will land an entry level/junior role as a software developer, Later on as you grow as a software developer and you want to join the kick ass companies Facebook, Google, Microsoft etc, you definitely need to learn and understand Algorithms and Data Structures, a good book that i recommend is <em>“The Algorithms Design Manual” by Steven S.Skiena,</em> Also a must have skill for a good software developer is problem solving, <em>“Think Like A programmer - an introduction to creative problem solving” by V.Anton Spraul</em> might be a good start, on a side note. those are a few publishing companies that i recommend, <i>Apress, Itworx, O’really.<br></i>
