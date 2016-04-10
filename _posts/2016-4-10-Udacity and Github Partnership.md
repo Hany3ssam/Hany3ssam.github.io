@@ -19,7 +19,7 @@ If you are +13 student, you can now benefit from the partnership Udacity and Git
 	And more..
 </p>
 <p>
-	First you need to apply for a student pack from Github and then you can enjoy the free resources Github offers through a kick ass partnership with a top notch institutions.
+	First you need to apply for a student developer pack from Github and then you can enjoy the free resources Github offers through a kick ass partnership with a top notch institutions.
 </p>
 Happy hunting.
 
