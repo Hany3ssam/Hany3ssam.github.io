@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Full Stack Web Development Coursera Specialization
+title: Full Stack Web Development Coursera's Specialization
 categories: []
 tags: [career,Software Developement,MOOC,Coursera]
 description: 
@@ -16,11 +16,6 @@ Couple days ago i head to Coursera to check their upcoming courses, i came acros
 	<li>Server-side Development with NodeJS</li>
 	<li>Full Stack Web Development Specialization Capstone Project</li>
 </ol>
-</p>
-<p>
- 	<strong>About This Specialization</strong><br>
-Learn front-end and mobile hybrid development, build back-end support, and implement a fully functional application.
-The first two courses in this Specialization include an orientation to client-side development, covering HTML/CSS, JavaScript/JQuery, and frameworks such as AngularJS and Bootstrap. On the server side, you’ll learn to implement NoSQL databases using MongoDB, work within a Node.js environment, and communicate to the client side through a RESTful API. You’ll also learn to create hybrid mobile applications, using the Ionic framework and Cordova. In the final Capstone Project, you’ll apply your skills to build a fully functional web and hybrid mobile application with back-end support.
 </p>
 <p>
 	Sounds Interesting huh!, But there is no way i can afford the course's cost while im unemployed, Luckly i applied for a Financial Aid, and Coursera offered me the Specialization free of charge.<br> <em>I got excited and finished the 1 week material and assignment in one sitting :)</em>,
