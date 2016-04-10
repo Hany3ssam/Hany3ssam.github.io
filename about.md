@@ -4,6 +4,6 @@ title: About
 ---
 <p>
 Im a self-taught software developer having a career shift from Sales,
-interested in entry level/junior role.<br>
+interested in an entry level/junior role.<br>
 </p>
 
