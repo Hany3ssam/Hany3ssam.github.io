@@ -30,7 +30,7 @@ The very next thing you want to do is to gain a real life experience, so learn b
 If i only had a mentor!<br>
 I learned the hard way, 3 years later now and im willing to accept unpaid internship to learn and advance my skills. 
 </p>
-There is nothing to be ashamed off accepting internship at a late age, as im a big fan of Friends show, I remember when Chandler quit his job and got an internship in advertising as a junior copy writer at the age of 30 while he was married to Monica. <br>So there is nothing wrong with having a career shift and starting from scratch, if anything, this shows that you are initiative, self-motivated, out of your comfort zone person, and that should appeal you employers and head hunters.<br>
+There is nothing to be ashamed off accepting internship at a late age, as im a big fan of Friends show, I remember when Chandler quit his job and got an internship in advertising as a junior copy writer at the age of 30 while he was married to Monica. <br>So there is nothing wrong with having a career shift and starting from scratch, if anything, this shows that you are initiative, self-motivated, out of your comfort zone person, and that should appeal employers and head hunters.<br>
 Good Luck.
 
 
