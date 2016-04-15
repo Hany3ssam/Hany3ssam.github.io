@@ -11,6 +11,7 @@ tagline:          'self-taught software developer'
 description:      'Self-Taught Software Developer having a career shift from Sales.'
 url:              https://hany3ssam.github.io
 baseurl:          '/'
+gems:             [jekyll-redirect-from]
 gems:             [jekyll-paginate]
 paginate:         5
 
