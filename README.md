@@ -1,7 +1,7 @@
 ## hany3ssam.github.io
 
 
-Blog - [https://hany3ssam.github.io] [http://hanyz.com]<br>
+Blog - 	 [http://hanyz.com]<br>
 Resume - [http://hanyz.com/resume]
 				   
 
