@@ -28,7 +28,7 @@ This tutorial series will be in Arabic language as im sure there are plenty of g
  <img src="https://s3.amazonaws.com/ka-cs-algorithms/primes1.png">
  </span>
  <p>
-لا, طيب انت اكبر ولا اصغر من الرقم اللى بدور عليه؟ لو فرضنا انى بدور على الرقم 67, ف هنلاقى ان ال انديكس 12 بيشاور على 41, ف انت اصغر وش, يبقي انا هستبعد تماما ومش هدور قبل الانديكس 12, هبدأ ادور من انديكس 13
+لا, طيب انت اكبر ولا اصغر من الرقم اللى بدور عليه؟ لو فرضنا انى بدور على الرقم 67, ف هنلاقى ان ال انديكس 12 شايل القيمه 41, ف انت اصغر وش, يبقي انا هستبعد تماما ومش هدور قبل الانديكس 12, هبدأ ادور من انديكس 13
 </p>
 <span>
 <img src="https://s3.amazonaws.com/ka-cs-algorithms/primes2.png">
