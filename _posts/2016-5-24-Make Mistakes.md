@@ -27,5 +27,6 @@ comments:
 	Of course we didn't get the answer by our first attempt to solve the puzzle nor the other Students in the Class, and it turns out this was the Goal of the first unit as stated by the professor, <em>To Make Mistakes</em>, in other words, to try something, and most probably the first attempt will be wrong, however will lead you to the solution.
 </p>
 <p>
-	And this was the take out from unit one as stated by the Prof, Don't be Afraid to Make Mistakes, and i wanted to share this with you.
+	And this was the take out from unit one as stated by the Prof, Don't be Afraid to Make Mistakes.
 </p>
+
