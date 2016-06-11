@@ -8,7 +8,7 @@ comments:
 ---
 
 <p >
-As i progress in the computer Science curriculum<a href="https://ossu.firebaseapp.com/#/curriculum">OSSU</a>, I came across the course Introduction to Mathematical Thinking from Stanford on Coursera, The course advance and work on thinking ability, However this course builds on high school math(Algebra I,II and Geometry), As someone who’s graduate from high school +10 years ago i wanted to fresh up my math memory and skills.
+As i progress in the computer Science curriculum <a href="https://ossu.firebaseapp.com/#/curriculum">OSSU</a>, I came across the course Introduction to Mathematical Thinking from Stanford on Coursera, The course advance and work on thinking ability, However this course builds on high school math(Algebra I,II and Geometry), As someone who’s graduate from high school +10 years ago i wanted to fresh up my math memory and skills.
 </p>
 <p>
 	The first thing came to my mind is <em>Khan Academy</em>, i found Khan Academy very long time ago but never use it except for a little basic Algorithms tutorials, and to be honest I’m fascinated by the idea behind the initiative and totally support it.
